@@ -61,4 +61,4 @@ This project is implemented in a Jupyter Notebook and requires the following Pyt
 #### To run the analysis:
 1.  Clone this repository.
 2.  Install dependencies: `pip install pandas numpy matplotlib seaborn`
-3.  Open the main notebook: `Project_Reincarnation (1).ipynb`
+3.  Open the main notebook: `College_placement_analysis.ipynb`
